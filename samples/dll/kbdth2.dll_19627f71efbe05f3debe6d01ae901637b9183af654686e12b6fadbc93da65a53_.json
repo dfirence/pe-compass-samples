@@ -18,5 +18,6 @@
   "hashes": {
     "sha2": "19627f71efbe05f3debe6d01ae901637b9183af654686e12b6fadbc93da65a53",
     "ssdeep": "96:vv4o+2vrUyGn76FyNc6EW2OW+FLpaWwz:X4ovY1nkOW+FdaWg"
-  }
+  },
+  "os": "win10"
 }

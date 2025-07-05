@@ -1944,5 +1944,6 @@
   "hashes": {
     "sha2": "68b4cfabc3ba18833d59f97e7007a6e966576c0f6496f26b5e92c5709c445a02",
     "ssdeep": "6144:hmUUO3Kp1xZ0Q1GNhhSnbP806t+EQ1c5fZB9FD0a3KcSv92YeamlS:hmUV3Kv0Q1chhSnbP806t+EQ1c5fZB9k"
-  }
+  },
+  "os": "win10"
 }

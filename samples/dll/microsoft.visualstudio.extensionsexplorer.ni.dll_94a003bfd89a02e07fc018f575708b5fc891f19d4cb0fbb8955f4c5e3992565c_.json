@@ -22,5 +22,6 @@
   "hashes": {
     "sha2": "94a003bfd89a02e07fc018f575708b5fc891f19d4cb0fbb8955f4c5e3992565c",
     "ssdeep": "768:qarduh4W37iuXJyPwtxnE3uSWr3xuBmXDm:kh4WeuXqwjE+ZbxomX"
-  }
+  },
+  "os": "win10"
 }

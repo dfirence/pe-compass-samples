@@ -1938,5 +1938,6 @@
   "hashes": {
     "sha2": "30b41923260e61a21052820b72bd0aaaf4750a0e9d24eb208587d9d831481c9e",
     "ssdeep": "12288:OVWdwOQhBCElRIY5Wsby+vQ9JK97knPc9xoSMXJwAWW:bdwO"
-  }
+  },
+  "os": "win10"
 }
